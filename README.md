@@ -6,5 +6,5 @@ After building the heap the program will then find the minimum and maximum eleme
 Then the program will insert an element to the heap. 
 Then it will prompt the user if they would like to delete the minimum and maximum elements. 
 
-It is assignment I did back in 2022 for academic purpose.
+It is an assignment that I did back in 2022 for academic purpose.
 
